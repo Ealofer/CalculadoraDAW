@@ -1,9 +1,9 @@
 // calculadora.js
 
-function suma(a, b) {
+function sumar(a, b) {
   return a + b;
  }
- function resta(a, b) {
+ function restar(a, b) {
   return a - b;
  }
  function multiplicar(a, b) {
